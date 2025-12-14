@@ -40,17 +40,11 @@ Conclusion
 The Internal Stack Overflow project effectively demonstrates the integration of core data structure concepts with modern database logging techniques. By combining Java stack implementation, exception handling, and MongoDB logging, the project provides a practical learning model for understanding stack behavior, error handling, and persistent monitoring in real-world applications.
 
 Output:
-![25 op4](https://github.com/user-attachments/assets/6307a77e-5ec4-4c39-95ce-c9e444697f3a)
-![25 op3](https://github.com/user-attachments/assets/a8a7879c-52cc-42ca-89d5-0c0a1d719453)
-![25 op2](https://github.com/user-attachments/assets/713c892b-39a6-40e7-8c09-cefb5bbf4876)
-![25 op1](https://github.com/user-attachments/assets/4d95bb71-b1a4-4251-accf-9f0860afab65)
+![25 op1](https://github.com/user-attachments/assets/a3ed69bb-ba49-4d8c-aaeb-decb7e709ccf)
+![25 op2](https://github.com/user-attachments/assets/fd9c29a9-38b4-4d78-81a8-2ae54335944a)
+![25 op3](https://github.com/user-attachments/assets/5f95343c-e752-4df5-a63c-f985688b6deb)
+![25 op4](https://github.com/user-attachments/assets/bcdb3e81-8964-44ee-aaea-e795b6b49a07)
 
 
- 
-
-5–8 marks exam answer format
-
-Very simple wording
 
 
-Just tell me 👍
